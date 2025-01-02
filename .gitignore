@@ -1,7 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/django
 # Edit at https://www.toptal.com/developers/gitignore?templates=django
-
+# THE VIRTUAL ENVORONMENT IS NOT INCLUDED! : coffee_shop_env/
 ### Django ###
+
 *.log
 *.pot
 *.pyc
@@ -174,3 +175,5 @@ cython_debug/
 # End of https://www.toptal.com/developers/gitignore/api/django
 
 *.jpg 
+
+coffee_shop_env
