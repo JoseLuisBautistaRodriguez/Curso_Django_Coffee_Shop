@@ -1,8 +1,8 @@
-# Foobar
+# Coffee_Shop of Platzi
 
-Foobar is a Python library for dealing with word pluralization.
+Proyecto base propuesto a partir del curso de [Djanago](https://platzi.com/cursos/django/) en la plataforma de Platzi.
 
-## Installation
+## Requeriments
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
